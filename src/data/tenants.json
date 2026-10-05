@@ -1,0 +1,92 @@
+[
+  {
+    "id": "tenant-1",
+    "name": "Alex Morgan",
+    "email": "alex.morgan@email.com",
+    "phone": "(206) 555-0142",
+    "propertyId": "prop-1",
+    "leaseStart": "2024-06-01",
+    "leaseEnd": "2025-05-31"
+  },
+  {
+    "id": "tenant-2",
+    "name": "Jordan Lee",
+    "email": "jordan.lee@email.com",
+    "phone": "(512) 555-0198",
+    "propertyId": "prop-3",
+    "leaseStart": "2025-01-15",
+    "leaseEnd": "2026-01-14"
+  },
+  {
+    "id": "tenant-3",
+    "name": "Sam Rivera",
+    "email": "sam.rivera@email.com",
+    "phone": "(303) 555-0111",
+    "propertyId": "prop-6",
+    "leaseStart": "2023-09-01",
+    "leaseEnd": "2025-08-31"
+  },
+  {
+    "id": "tenant-4",
+    "name": "Taylor Kim",
+    "email": "taylor.kim@email.com",
+    "phone": "(212) 555-0177",
+    "propertyId": "prop-8",
+    "leaseStart": "2024-11-01",
+    "leaseEnd": "2025-10-31"
+  },
+  {
+    "id": "tenant-5",
+    "name": "Casey Brooks",
+    "email": "casey.brooks@email.com",
+    "phone": "(612) 555-0133",
+    "propertyId": "prop-11",
+    "leaseStart": "2025-02-01",
+    "leaseEnd": "2026-01-31"
+  },
+  {
+    "id": "tenant-6",
+    "name": "Riley Chen",
+    "email": "riley.chen@email.com",
+    "phone": "(312) 555-0166",
+    "propertyId": "prop-13",
+    "leaseStart": "2024-08-15",
+    "leaseEnd": "2025-08-14"
+  },
+  {
+    "id": "tenant-7",
+    "name": "Morgan Patel",
+    "email": "morgan.patel@email.com",
+    "phone": "(415) 555-0188",
+    "propertyId": "prop-5",
+    "leaseStart": "2024-03-01",
+    "leaseEnd": "2025-02-28"
+  },
+  {
+    "id": "tenant-8",
+    "name": "Jamie Ortiz",
+    "email": "jamie.ortiz@email.com",
+    "phone": "(602) 555-0120",
+    "propertyId": "prop-9",
+    "leaseStart": "2023-12-01",
+    "leaseEnd": "2024-11-30"
+  },
+  {
+    "id": "tenant-9",
+    "name": "Drew Nguyen",
+    "email": "drew.nguyen@email.com",
+    "phone": "(404) 555-0155",
+    "propertyId": "prop-14",
+    "leaseStart": "2025-03-01",
+    "leaseEnd": "2026-02-28"
+  },
+  {
+    "id": "tenant-10",
+    "name": "Quinn Adams",
+    "email": "quinn.adams@email.com",
+    "phone": "(617) 555-0144",
+    "propertyId": "prop-7",
+    "leaseStart": "2024-07-01",
+    "leaseEnd": "2025-06-30"
+  }
+]

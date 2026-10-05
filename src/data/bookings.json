@@ -1,0 +1,202 @@
+[
+  {
+    "id": "book-1",
+    "propertyId": "prop-1",
+    "tenantId": "tenant-1",
+    "checkIn": "2025-09-01",
+    "checkOut": "2025-09-28",
+    "status": "confirmed",
+    "guests": 2,
+    "totalAmount": 1537
+  },
+  {
+    "id": "book-2",
+    "propertyId": "prop-1",
+    "tenantId": "tenant-1",
+    "checkIn": "2025-08-01",
+    "checkOut": "2025-08-28",
+    "status": "checked-in",
+    "guests": 3,
+    "totalAmount": 1574
+  },
+  {
+    "id": "book-3",
+    "propertyId": "prop-3",
+    "tenantId": "tenant-2",
+    "checkIn": "2025-09-01",
+    "checkOut": "2025-09-28",
+    "status": "completed",
+    "guests": 1,
+    "totalAmount": 1611
+  },
+  {
+    "id": "book-4",
+    "propertyId": "prop-3",
+    "tenantId": "tenant-2",
+    "checkIn": "2025-08-01",
+    "checkOut": "2025-08-28",
+    "status": "cancelled",
+    "guests": 2,
+    "totalAmount": 1648
+  },
+  {
+    "id": "book-5",
+    "propertyId": "prop-5",
+    "tenantId": "tenant-7",
+    "checkIn": "2025-09-01",
+    "checkOut": "2025-09-28",
+    "status": "pending",
+    "guests": 3,
+    "totalAmount": 1685
+  },
+  {
+    "id": "book-6",
+    "propertyId": "prop-5",
+    "tenantId": "tenant-7",
+    "checkIn": "2025-08-01",
+    "checkOut": "2025-08-28",
+    "status": "confirmed",
+    "guests": 1,
+    "totalAmount": 1722
+  },
+  {
+    "id": "book-7",
+    "propertyId": "prop-6",
+    "tenantId": "tenant-3",
+    "checkIn": "2025-09-01",
+    "checkOut": "2025-09-28",
+    "status": "checked-in",
+    "guests": 2,
+    "totalAmount": 1759
+  },
+  {
+    "id": "book-8",
+    "propertyId": "prop-6",
+    "tenantId": "tenant-3",
+    "checkIn": "2025-08-01",
+    "checkOut": "2025-08-28",
+    "status": "completed",
+    "guests": 3,
+    "totalAmount": 1796
+  },
+  {
+    "id": "book-9",
+    "propertyId": "prop-7",
+    "tenantId": "tenant-10",
+    "checkIn": "2025-09-01",
+    "checkOut": "2025-09-28",
+    "status": "cancelled",
+    "guests": 1,
+    "totalAmount": 1833
+  },
+  {
+    "id": "book-10",
+    "propertyId": "prop-7",
+    "tenantId": "tenant-10",
+    "checkIn": "2025-08-01",
+    "checkOut": "2025-08-28",
+    "status": "pending",
+    "guests": 2,
+    "totalAmount": 1870
+  },
+  {
+    "id": "book-11",
+    "propertyId": "prop-8",
+    "tenantId": "tenant-4",
+    "checkIn": "2025-09-01",
+    "checkOut": "2025-09-28",
+    "status": "confirmed",
+    "guests": 3,
+    "totalAmount": 1907
+  },
+  {
+    "id": "book-12",
+    "propertyId": "prop-8",
+    "tenantId": "tenant-4",
+    "checkIn": "2025-08-01",
+    "checkOut": "2025-08-28",
+    "status": "checked-in",
+    "guests": 1,
+    "totalAmount": 1944
+  },
+  {
+    "id": "book-13",
+    "propertyId": "prop-9",
+    "tenantId": "tenant-8",
+    "checkIn": "2025-09-01",
+    "checkOut": "2025-09-28",
+    "status": "completed",
+    "guests": 2,
+    "totalAmount": 1981
+  },
+  {
+    "id": "book-14",
+    "propertyId": "prop-9",
+    "tenantId": "tenant-8",
+    "checkIn": "2025-08-01",
+    "checkOut": "2025-08-28",
+    "status": "cancelled",
+    "guests": 3,
+    "totalAmount": 2018
+  },
+  {
+    "id": "book-15",
+    "propertyId": "prop-11",
+    "tenantId": "tenant-5",
+    "checkIn": "2025-09-01",
+    "checkOut": "2025-09-28",
+    "status": "pending",
+    "guests": 1,
+    "totalAmount": 2055
+  },
+  {
+    "id": "book-16",
+    "propertyId": "prop-11",
+    "tenantId": "tenant-5",
+    "checkIn": "2025-08-01",
+    "checkOut": "2025-08-28",
+    "status": "confirmed",
+    "guests": 2,
+    "totalAmount": 2092
+  },
+  {
+    "id": "book-17",
+    "propertyId": "prop-13",
+    "tenantId": "tenant-6",
+    "checkIn": "2025-09-01",
+    "checkOut": "2025-09-28",
+    "status": "checked-in",
+    "guests": 3,
+    "totalAmount": 2129
+  },
+  {
+    "id": "book-18",
+    "propertyId": "prop-13",
+    "tenantId": "tenant-6",
+    "checkIn": "2025-08-01",
+    "checkOut": "2025-08-28",
+    "status": "completed",
+    "guests": 1,
+    "totalAmount": 2166
+  },
+  {
+    "id": "book-19",
+    "propertyId": "prop-14",
+    "tenantId": "tenant-9",
+    "checkIn": "2025-09-01",
+    "checkOut": "2025-09-28",
+    "status": "cancelled",
+    "guests": 2,
+    "totalAmount": 2203
+  },
+  {
+    "id": "book-20",
+    "propertyId": "prop-14",
+    "tenantId": "tenant-9",
+    "checkIn": "2025-08-01",
+    "checkOut": "2025-08-28",
+    "status": "pending",
+    "guests": 3,
+    "totalAmount": 2240
+  }
+]

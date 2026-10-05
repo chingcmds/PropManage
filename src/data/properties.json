@@ -1,0 +1,314 @@
+[
+  {
+    "id": "prop-1",
+    "name": "Harbor View Loft",
+    "address": "120 Pier Lane",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98101",
+    "type": "apartment",
+    "status": "occupied",
+    "price": 2450,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 980,
+    "amenities": [
+      "Parking",
+      "Gym",
+      "In-unit laundry"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2cd9361?w=800&q=80"
+    ],
+    "description": "Bright loft with water views and modern finishes.",
+    "tenantId": "tenant-1"
+  },
+  {
+    "id": "prop-2",
+    "name": "Maple Street House",
+    "address": "88 Maple St",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97205",
+    "type": "house",
+    "status": "available",
+    "price": 3200,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1850,
+    "amenities": [
+      "Garage",
+      "Backyard",
+      "Pet friendly"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80"
+    ],
+    "description": "Family home near schools and parks."
+  },
+  {
+    "id": "prop-3",
+    "name": "Downtown Studio",
+    "address": "400 Main Ave #12",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "type": "studio",
+    "status": "occupied",
+    "price": 1650,
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 520,
+    "amenities": [
+      "Pool",
+      "Concierge"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1522706723598-1c683925fd1f?w=800&q=80"
+    ],
+    "description": "Compact studio in the heart of downtown.",
+    "tenantId": "tenant-2"
+  },
+  {
+    "id": "prop-4",
+    "name": "Lakeside Condo",
+    "address": "55 Lake Dr Unit 3B",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60601",
+    "type": "condo",
+    "status": "maintenance",
+    "price": 2800,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1100,
+    "amenities": [
+      "Doorman",
+      "Lake view"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&q=80"
+    ],
+    "description": "Renovated condo; temporarily offline for HVAC work."
+  },
+  {
+    "id": "prop-5",
+    "name": "Sunset Ridge Apartment",
+    "address": "901 Sunset Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90028",
+    "type": "apartment",
+    "status": "available",
+    "price": 2950,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 890,
+    "amenities": [
+      "Balcony",
+      "EV charging"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1501183638718-1cb899c4a90e?w=800&q=80"
+    ],
+    "description": "West-facing unit with sunset views."
+  },
+  {
+    "id": "prop-6",
+    "name": "Garden Terrace",
+    "address": "14 Orchard Way",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80203",
+    "type": "house",
+    "status": "occupied",
+    "price": 2750,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1600,
+    "amenities": [
+      "Garden",
+      "Fireplace"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80"
+    ],
+    "description": "Quiet neighborhood with mature trees.",
+    "tenantId": "tenant-3"
+  },
+  {
+    "id": "prop-7",
+    "name": "Riverfront Condo",
+    "address": "200 River Rd #801",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02108",
+    "type": "condo",
+    "status": "available",
+    "price": 3400,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1050,
+    "amenities": [
+      "River view",
+      "Gym"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=80"
+    ],
+    "description": "Premium finishes and walkable to transit."
+  },
+  {
+    "id": "prop-8",
+    "name": "Midtown Micro Studio",
+    "address": "77 5th Ave #4",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10003",
+    "type": "studio",
+    "status": "occupied",
+    "price": 2200,
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 450,
+    "amenities": [
+      "Roof deck"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2cd9361?w=800&q=80"
+    ],
+    "description": "Efficient layout for urban professionals.",
+    "tenantId": "tenant-4"
+  },
+  {
+    "id": "prop-9",
+    "name": "Cypress Villas",
+    "address": "300 Cypress Ln",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85004",
+    "type": "house",
+    "status": "available",
+    "price": 2100,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1720,
+    "amenities": [
+      "Pool",
+      "Two-car garage"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "description": "Desert modern with private pool."
+  },
+  {
+    "id": "prop-10",
+    "name": "Union Square Flat",
+    "address": "12 Union Sq",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94102",
+    "type": "apartment",
+    "status": "maintenance",
+    "price": 4100,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 720,
+    "amenities": [
+      "Transit access"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80"
+    ],
+    "description": "Paint and flooring refresh in progress."
+  },
+  {
+    "id": "prop-11",
+    "name": "Oak Park Duplex",
+    "address": "45 Oak Park Dr",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55401",
+    "type": "house",
+    "status": "occupied",
+    "price": 2300,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1200,
+    "amenities": [
+      "Basement storage"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600047509800-ba0935290d88?w=800&q=80"
+    ],
+    "description": "Upper unit of a well-kept duplex.",
+    "tenantId": "tenant-5"
+  },
+  {
+    "id": "prop-12",
+    "name": "Beacon Hill Classic",
+    "address": "8 Beacon St",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02108",
+    "type": "condo",
+    "status": "available",
+    "price": 3600,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1150,
+    "amenities": [
+      "Historic charm",
+      "Fireplace"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80"
+    ],
+    "description": "Historic building with updated systems."
+  },
+  {
+    "id": "prop-13",
+    "name": "South Loop Studio Plus",
+    "address": "500 S State St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60605",
+    "type": "studio",
+    "status": "occupied",
+    "price": 1750,
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "sqft": 580,
+    "amenities": [
+      "Fitness center"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800&q=80"
+    ],
+    "description": "Alcove studio with separate sleeping area.",
+    "tenantId": "tenant-6"
+  },
+  {
+    "id": "prop-14",
+    "name": "Greenway Townhome",
+    "address": "600 Greenway Ct",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30303",
+    "type": "house",
+    "status": "available",
+    "price": 2550,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1680,
+    "amenities": [
+      "Patio",
+      "Smart home"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1605276374102-40f3ed106edc?w=800&q=80"
+    ],
+    "description": "End-unit townhome on the beltline trail."
+  }
+]

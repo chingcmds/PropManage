@@ -1,0 +1,420 @@
+[
+  {
+    "id": "pay-1",
+    "propertyId": "prop-1",
+    "tenantId": "tenant-1",
+    "amount": 1811,
+    "dueDate": "2025-10-01",
+    "status": "pending",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-2",
+    "propertyId": "prop-1",
+    "tenantId": "tenant-1",
+    "amount": 1822,
+    "dueDate": "2025-09-01",
+    "paidDate": "2025-09-03",
+    "status": "paid",
+    "method": "cash",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-3",
+    "propertyId": "prop-1",
+    "tenantId": "tenant-1",
+    "amount": 1833,
+    "dueDate": "2025-08-01",
+    "paidDate": "2025-08-03",
+    "status": "paid",
+    "method": "check",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-4",
+    "propertyId": "prop-1",
+    "tenantId": "tenant-1",
+    "amount": 1844,
+    "dueDate": "2025-07-01",
+    "paidDate": "2025-07-03",
+    "status": "paid",
+    "method": "card",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-5",
+    "propertyId": "prop-3",
+    "tenantId": "tenant-2",
+    "amount": 1855,
+    "dueDate": "2025-10-01",
+    "status": "pending",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-6",
+    "propertyId": "prop-3",
+    "tenantId": "tenant-2",
+    "amount": 1866,
+    "dueDate": "2025-09-01",
+    "paidDate": "2025-09-03",
+    "status": "paid",
+    "method": "cash",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-7",
+    "propertyId": "prop-3",
+    "tenantId": "tenant-2",
+    "amount": 1877,
+    "dueDate": "2025-08-01",
+    "paidDate": "2025-08-03",
+    "status": "paid",
+    "method": "check",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-8",
+    "propertyId": "prop-3",
+    "tenantId": "tenant-2",
+    "amount": 1888,
+    "dueDate": "2025-07-01",
+    "paidDate": "2025-07-03",
+    "status": "paid",
+    "method": "card",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-9",
+    "propertyId": "prop-6",
+    "tenantId": "tenant-3",
+    "amount": 1899,
+    "dueDate": "2025-10-01",
+    "status": "pending",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-10",
+    "propertyId": "prop-6",
+    "tenantId": "tenant-3",
+    "amount": 1910,
+    "dueDate": "2025-09-01",
+    "paidDate": "2025-09-03",
+    "status": "paid",
+    "method": "cash",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-11",
+    "propertyId": "prop-6",
+    "tenantId": "tenant-3",
+    "amount": 1921,
+    "dueDate": "2025-08-01",
+    "paidDate": "2025-08-03",
+    "status": "paid",
+    "method": "check",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-12",
+    "propertyId": "prop-6",
+    "tenantId": "tenant-3",
+    "amount": 1932,
+    "dueDate": "2025-07-01",
+    "paidDate": "2025-07-03",
+    "status": "paid",
+    "method": "card",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-13",
+    "propertyId": "prop-8",
+    "tenantId": "tenant-4",
+    "amount": 1943,
+    "dueDate": "2025-10-01",
+    "status": "pending",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-14",
+    "propertyId": "prop-8",
+    "tenantId": "tenant-4",
+    "amount": 1954,
+    "dueDate": "2025-09-01",
+    "status": "overdue",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-15",
+    "propertyId": "prop-8",
+    "tenantId": "tenant-4",
+    "amount": 1965,
+    "dueDate": "2025-08-01",
+    "paidDate": "2025-08-03",
+    "status": "paid",
+    "method": "check",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-16",
+    "propertyId": "prop-8",
+    "tenantId": "tenant-4",
+    "amount": 1976,
+    "dueDate": "2025-07-01",
+    "paidDate": "2025-07-03",
+    "status": "paid",
+    "method": "card",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-17",
+    "propertyId": "prop-11",
+    "tenantId": "tenant-5",
+    "amount": 1987,
+    "dueDate": "2025-10-01",
+    "status": "pending",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-18",
+    "propertyId": "prop-11",
+    "tenantId": "tenant-5",
+    "amount": 1998,
+    "dueDate": "2025-09-01",
+    "paidDate": "2025-09-03",
+    "status": "paid",
+    "method": "cash",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-19",
+    "propertyId": "prop-11",
+    "tenantId": "tenant-5",
+    "amount": 2009,
+    "dueDate": "2025-08-01",
+    "paidDate": "2025-08-03",
+    "status": "paid",
+    "method": "check",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-20",
+    "propertyId": "prop-11",
+    "tenantId": "tenant-5",
+    "amount": 2020,
+    "dueDate": "2025-07-01",
+    "paidDate": "2025-07-03",
+    "status": "paid",
+    "method": "card",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-21",
+    "propertyId": "prop-13",
+    "tenantId": "tenant-6",
+    "amount": 2031,
+    "dueDate": "2025-10-01",
+    "status": "pending",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-22",
+    "propertyId": "prop-13",
+    "tenantId": "tenant-6",
+    "amount": 2042,
+    "dueDate": "2025-09-01",
+    "paidDate": "2025-09-03",
+    "status": "paid",
+    "method": "cash",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-23",
+    "propertyId": "prop-13",
+    "tenantId": "tenant-6",
+    "amount": 2053,
+    "dueDate": "2025-08-01",
+    "paidDate": "2025-08-03",
+    "status": "paid",
+    "method": "check",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-24",
+    "propertyId": "prop-13",
+    "tenantId": "tenant-6",
+    "amount": 2064,
+    "dueDate": "2025-07-01",
+    "paidDate": "2025-07-03",
+    "status": "paid",
+    "method": "card",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-25",
+    "propertyId": "prop-5",
+    "tenantId": "tenant-7",
+    "amount": 2075,
+    "dueDate": "2025-10-01",
+    "status": "pending",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-26",
+    "propertyId": "prop-5",
+    "tenantId": "tenant-7",
+    "amount": 2086,
+    "dueDate": "2025-09-01",
+    "paidDate": "2025-09-03",
+    "status": "paid",
+    "method": "cash",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-27",
+    "propertyId": "prop-5",
+    "tenantId": "tenant-7",
+    "amount": 2097,
+    "dueDate": "2025-08-01",
+    "paidDate": "2025-08-03",
+    "status": "paid",
+    "method": "check",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-28",
+    "propertyId": "prop-5",
+    "tenantId": "tenant-7",
+    "amount": 2108,
+    "dueDate": "2025-07-01",
+    "paidDate": "2025-07-03",
+    "status": "paid",
+    "method": "card",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-29",
+    "propertyId": "prop-9",
+    "tenantId": "tenant-8",
+    "amount": 2119,
+    "dueDate": "2025-10-01",
+    "status": "pending",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-30",
+    "propertyId": "prop-9",
+    "tenantId": "tenant-8",
+    "amount": 2130,
+    "dueDate": "2025-09-01",
+    "paidDate": "2025-09-03",
+    "status": "paid",
+    "method": "cash",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-31",
+    "propertyId": "prop-9",
+    "tenantId": "tenant-8",
+    "amount": 2141,
+    "dueDate": "2025-08-01",
+    "paidDate": "2025-08-03",
+    "status": "paid",
+    "method": "check",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-32",
+    "propertyId": "prop-9",
+    "tenantId": "tenant-8",
+    "amount": 2152,
+    "dueDate": "2025-07-01",
+    "paidDate": "2025-07-03",
+    "status": "paid",
+    "method": "card",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-33",
+    "propertyId": "prop-14",
+    "tenantId": "tenant-9",
+    "amount": 2163,
+    "dueDate": "2025-10-01",
+    "status": "pending",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-34",
+    "propertyId": "prop-14",
+    "tenantId": "tenant-9",
+    "amount": 2174,
+    "dueDate": "2025-09-01",
+    "paidDate": "2025-09-03",
+    "status": "paid",
+    "method": "cash",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-35",
+    "propertyId": "prop-14",
+    "tenantId": "tenant-9",
+    "amount": 2185,
+    "dueDate": "2025-08-01",
+    "paidDate": "2025-08-03",
+    "status": "paid",
+    "method": "check",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-36",
+    "propertyId": "prop-14",
+    "tenantId": "tenant-9",
+    "amount": 2196,
+    "dueDate": "2025-07-01",
+    "paidDate": "2025-07-03",
+    "status": "paid",
+    "method": "card",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-37",
+    "propertyId": "prop-7",
+    "tenantId": "tenant-10",
+    "amount": 2207,
+    "dueDate": "2025-10-01",
+    "status": "pending",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-38",
+    "propertyId": "prop-7",
+    "tenantId": "tenant-10",
+    "amount": 2218,
+    "dueDate": "2025-09-01",
+    "paidDate": "2025-09-03",
+    "status": "paid",
+    "method": "cash",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-39",
+    "propertyId": "prop-7",
+    "tenantId": "tenant-10",
+    "amount": 2229,
+    "dueDate": "2025-08-01",
+    "paidDate": "2025-08-03",
+    "status": "paid",
+    "method": "check",
+    "description": "Monthly rent"
+  },
+  {
+    "id": "pay-40",
+    "propertyId": "prop-7",
+    "tenantId": "tenant-10",
+    "amount": 2240,
+    "dueDate": "2025-07-01",
+    "paidDate": "2025-07-03",
+    "status": "paid",
+    "method": "card",
+    "description": "Monthly rent"
+  }
+]
